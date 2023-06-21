@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Adeesha Nimsara </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="center"><b>Hi there, I'm Adeesha Nimsara </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -16,7 +16,15 @@
 
 <br>
 
-💼 Currently, I am working at WeLoveIT Studio, a dynamic and innovative software development company. As a part of the front-end development team, I am dedicated to creating user-friendly and visually appealing web applications that deliver exceptional user experiences.
+-💼 I’m currently working in WeLoveIt Studio as a Junior Front End Developer. As a part of the front-end development team, I am dedicated to creating user-friendly and visually appealing web applications that deliver exceptional user experiences.
+
+-🌱 I’m currently learning about Aurelia Framework 
+
+-👯 I’m looking to collaborate with other content creators
+
+-🤔 GOALS: Contribute more to open source Projects
+
+-💬 Ask me about any Questions Related to front end Technology
 
 <br><br>
 
