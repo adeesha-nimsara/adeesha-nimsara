@@ -16,9 +16,9 @@
 
 <br>
 
--💼 I’m currently working in WeLoveIt Studio as a Junior Front End Developer. As a part of the front-end development team, I am dedicated to creating user-friendly and visually appealing web applications that deliver exceptional user experiences.
+-💼 I’m currently working as a Freelance Front End Developer. As a part of the front-end development, I am dedicated to creating user-friendly and visually appealing web applications that deliver exceptional user experiences.
 
--🌱 I’m currently learning about Aurelia Framework 
+-🌱 I’m currently learning about Ionic
 
 -👯 I’m looking to collaborate with other content creators
 
