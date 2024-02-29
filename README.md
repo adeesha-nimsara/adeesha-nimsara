@@ -6,4 +6,4 @@ Throughout my career, I've demonstrated proficiency in designing and implementin
 
 My GitHub repositories showcase a diverse portfolio of projects, highlighting my proficiency in building scalable and responsive web applications. From WordPress customization to modern web development frameworks like Angular, you'll find a variety of code samples and contributions that reflect my commitment to innovation and best practices in the field.
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. Let's build something amazing together!</p>
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. Let's build something amazing together!</p> 
