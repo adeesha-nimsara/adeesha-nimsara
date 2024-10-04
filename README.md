@@ -8,4 +8,4 @@ My GitHub repositories showcase a diverse portfolio of projects, highlighting my
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. Let's build something amazing together!</p> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TharushiPremasiri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adeesha-nimsara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
